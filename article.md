@@ -1,7 +1,7 @@
 ---
 title: |
   ![](./img/Logo.png){width=2in}  
-  "Projet de"
+  "Projet de DevOp's"
 subtitle: "Overview"
 date: \today{}
 lang: fr-FR
