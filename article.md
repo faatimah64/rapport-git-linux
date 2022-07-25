@@ -26,6 +26,7 @@ Permet de lister les fichiers disponibles dans un répertoire, si appelé sans a
 
 **4. La Commande mkdir**
 Cette commande permet de créer un répertoire.
+
 "mkdir nom du repertoir"
   ![](./img/mkdir.png){width=2in} 
   on voit le fichier "essaie" 
