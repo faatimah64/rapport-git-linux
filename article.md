@@ -39,7 +39,7 @@ Cette commande permet de supprimer un répertoire.
 
 **6. La Commande touch**
 Cette commande permet de changer la date du dernier accès ou modification d’un fichier, mais permet également de créer un fichier vide.
-"touch nom du fichier.extension "
+utilisation: touch nom du fichier.extension 
   ![](./img/touch.png){width=2in}  
   on voit le fichier "essaie" 
 
