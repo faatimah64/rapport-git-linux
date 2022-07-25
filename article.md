@@ -26,7 +26,6 @@ Permet de lister les fichiers disponibles dans un répertoire, si appelé sans a
 
 **4. La Commande mkdir**
 Cette commande permet de créer un répertoire.
-
 "mkdir nom du repertoir"
   ![](./img/mkdir.png){width=2in} 
   on voit le fichier "essaie" 
@@ -45,7 +44,7 @@ Cette commande permet de changer la date du dernier accès ou modification d’u
   on voit le fichier "essaie" 
 
 **7. La Commande cp**
-Cette commande permet de copier un fichier ou un répertoire.
+Cette commande permet de copier un repertoir ou un fichier.
 
 **8. La Commande rm**
 Cette commande permet de supprimer un fichier ou un répertoire. Cette commande est à utiliser avec précaution car avec l’option -f ou -rf, cette commande peut endommager voir supprimer tout votre système de fichiers de manière irréversible.
