@@ -40,6 +40,7 @@ Cette commande permet de supprimer un répertoire.
 **6. La Commande touch**
 Cette commande permet de changer la date du dernier accès ou modification d’un fichier, mais permet également de créer un fichier vide.
 utilisation: touch nom du fichier.extension 
+   ![](./img/touch.png){width=2in}  
   on voit le fichier "essaie" 
 
 **7. La Commande cp**
@@ -92,7 +93,7 @@ L’une des commandes git les plus utilisées est git config. On l’utilise pou
 
 	La commande git clone est utilisée pour la vérification des dépôts. Si le dépôt se trouve sur un serveur distant, utilisez:
 ** Git commit**
-  ![](./img/commit.png){width=2in}  
+  ![](./img/commit1.png){width=2in}  
   ![](./img/commit2.png){width=2in}  
 
 	La commande git commit permet de valider les modifications apportées au HEAD. Notez que tout commit ne se fera pas dans le dépôt distant.
